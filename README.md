@@ -1,2 +1,2 @@
 # Control-Structures
-C programs demonstrating control structures including if, if-else, else-if, switch-case, logical operators, arithmetic operations, and conditional decision-making.
+This repository contains C programs developed for Lab 3, covering decision-making and control structures such as if, if-else,else-if, and switch-case statements.
